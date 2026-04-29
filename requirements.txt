@@ -1,8 +1,0 @@
-yt-dlp
-youtube-transcript-api
-google-generativeai
-edge-tts
-ffmpeg-python
-python-dotenv
-nicegui
-httpx
