@@ -1,6 +1,6 @@
 services:
   ytb-dub:
-    image: ytb-dub-station
+    image: imansur/ytb-dub
     ports:
       - "8080:8080"
     volumes:
