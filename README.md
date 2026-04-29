@@ -1,4 +1,4 @@
-# 🎬 YTDub AI: Intelligent Video Dubbing Pipeline (MacOS)
+# 🎬 YTDub AI: Intelligent Video Dubbing Pipeline
 
 [![Docker Image](https://img.shields.io/badge/docker-imansur/ytb--dub-blue?logo=docker)](https://hub.docker.com/r/imansur/ytb-dub)
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg?logo=python)](https://www.python.org/)
